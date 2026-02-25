@@ -1,0 +1,15 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\bin\Debug\net8.0\Ocenki.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\bin\Debug\net8.0\Ocenki.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\bin\Debug\net8.0\Ocenki.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\bin\Debug\net8.0\Ocenki.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\bin\Debug\net8.0\Ocenki.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.sourcelink.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\refint\Ocenki.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\Ocenki.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Ocenki\obj\Debug\net8.0\ref\Ocenki.dll

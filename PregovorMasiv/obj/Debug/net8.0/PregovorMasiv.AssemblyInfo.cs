@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PregovorMasiv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fbaf4d3c1bdb1cf3f1cbdd8d457aa3a34c56a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PregovorMasiv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PregovorMasiv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
