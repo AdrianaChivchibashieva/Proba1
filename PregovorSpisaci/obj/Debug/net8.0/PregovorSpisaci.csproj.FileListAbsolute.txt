@@ -1,0 +1,14 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\bin\Debug\net8.0\PregovorSpisaci.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\bin\Debug\net8.0\PregovorSpisaci.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\bin\Debug\net8.0\PregovorSpisaci.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\bin\Debug\net8.0\PregovorSpisaci.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\bin\Debug\net8.0\PregovorSpisaci.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\refint\PregovorSpisaci.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\PregovorSpisaci.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorSpisaci\obj\Debug\net8.0\ref\PregovorSpisaci.dll

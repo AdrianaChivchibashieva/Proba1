@@ -1,0 +1,14 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\bin\Debug\net8.0\Worklist.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\bin\Debug\net8.0\Worklist.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\bin\Debug\net8.0\Worklist.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\bin\Debug\net8.0\Worklist.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\bin\Debug\net8.0\Worklist.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\refint\Worklist.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\Worklist.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\Worklist\obj\Debug\net8.0\ref\Worklist.dll

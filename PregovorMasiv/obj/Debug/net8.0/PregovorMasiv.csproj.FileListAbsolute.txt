@@ -1,0 +1,14 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\bin\Debug\net8.0\PregovorMasiv.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\bin\Debug\net8.0\PregovorMasiv.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\bin\Debug\net8.0\PregovorMasiv.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\bin\Debug\net8.0\PregovorMasiv.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\bin\Debug\net8.0\PregovorMasiv.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\refint\PregovorMasiv.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\PregovorMasiv.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\PregovorMasiv\obj\Debug\net8.0\ref\PregovorMasiv.dll

@@ -1,0 +1,14 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\bin\Debug\net8.0\MaxCount.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\bin\Debug\net8.0\MaxCount.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\bin\Debug\net8.0\MaxCount.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\bin\Debug\net8.0\MaxCount.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\bin\Debug\net8.0\MaxCount.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\refint\MaxCount.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\MaxCount.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\MaxCount\obj\Debug\net8.0\ref\MaxCount.dll

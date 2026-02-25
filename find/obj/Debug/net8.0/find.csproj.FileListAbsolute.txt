@@ -1,0 +1,14 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\bin\Debug\net8.0\find.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\bin\Debug\net8.0\find.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\bin\Debug\net8.0\find.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\bin\Debug\net8.0\find.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\bin\Debug\net8.0\find.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\refint\find.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\find.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\find\obj\Debug\net8.0\ref\find.dll

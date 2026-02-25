@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D2ADA7-AC9C-4FB3-B24B-DBB080A8F692}|MaxCount\\MaxCount.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\maxcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D2ADA7-AC9C-4FB3-B24B-DBB080A8F692}|MaxCount\\MaxCount.csproj|solutionrelative:maxcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA834009-65DC-4470-BEA1-5F0A02FF028B}|Zadacha\\Zadacha.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\zadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA834009-65DC-4470-BEA1-5F0A02FF028B}|Zadacha\\Zadacha.csproj|solutionrelative:zadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDD76BD-F535-4B21-AA45-C40A728BE8CB}|find\\find.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\find\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDD76BD-F535-4B21-AA45-C40A728BE8CB}|find\\find.csproj|solutionrelative:find\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7FEB66-1857-4CBE-B02C-6A0B2A7A8BDD}|PregovorSpisaci\\PregovorSpisaci.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\pregovorspisaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7FEB66-1857-4CBE-B02C-6A0B2A7A8BDD}|PregovorSpisaci\\PregovorSpisaci.csproj|solutionrelative:pregovorspisaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694521C-BD6C-4959-BD69-82F4EC0395DA}|PregovorMasiv\\PregovorMasiv.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\pregovormasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694521C-BD6C-4959-BD69-82F4EC0395DA}|PregovorMasiv\\PregovorMasiv.csproj|solutionrelative:pregovormasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694521C-BD6C-4959-BD69-82F4EC0395DA}|PregovorMasiv\\PregovorMasiv.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\pregovormasiv\\pregovormasiv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F694521C-BD6C-4959-BD69-82F4EC0395DA}|PregovorMasiv\\PregovorMasiv.csproj|solutionrelative:pregovormasiv\\pregovormasiv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7FEB66-1857-4CBE-B02C-6A0B2A7A8BDD}|PregovorSpisaci\\PregovorSpisaci.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\pregovorspisaci\\pregovorspisaci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF7FEB66-1857-4CBE-B02C-6A0B2A7A8BDD}|PregovorSpisaci\\PregovorSpisaci.csproj|solutionrelative:pregovorspisaci\\pregovorspisaci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6412F29-8FEA-43A7-B383-7C04C0E36282}|inputOutput\\inputOutput.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6412F29-8FEA-43A7-B383-7C04C0E36282}|inputOutput\\inputOutput.csproj|solutionrelative:inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C560912-DAE5-4B5D-9BB8-4BD815281C38}|Worklist\\Worklist.csproj|c:\\users\\teachers-10\\desktop\\\u0430\u0434\u0440\u0438\u0430\u043D\u04309\u0430\\workinglist\\worklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C560912-DAE5-4B5D-9BB8-4BD815281C38}|Worklist\\Worklist.csproj|solutionrelative:worklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 233,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\MaxCount\\Program.cs",
+              "RelativeDocumentMoniker": "MaxCount\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\MaxCount\\Program.cs",
+              "RelativeToolTip": "MaxCount\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:24:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\Zadacha\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\Zadacha\\Program.cs",
+              "RelativeToolTip": "Zadacha\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:44:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\find\\Program.cs",
+              "RelativeDocumentMoniker": "find\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\find\\Program.cs",
+              "RelativeToolTip": "find\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:36:18.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PregovorSpisaci.csproj",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorSpisaci\\PregovorSpisaci.csproj",
+              "RelativeDocumentMoniker": "PregovorSpisaci\\PregovorSpisaci.csproj",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorSpisaci\\PregovorSpisaci.csproj",
+              "RelativeToolTip": "PregovorSpisaci\\PregovorSpisaci.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T06:38:43.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorSpisaci\\Program.cs",
+              "RelativeDocumentMoniker": "PregovorSpisaci\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorSpisaci\\Program.cs",
+              "RelativeToolTip": "PregovorSpisaci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:35:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PregovorMasiv.csproj",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorMasiv\\PregovorMasiv.csproj",
+              "RelativeDocumentMoniker": "PregovorMasiv\\PregovorMasiv.csproj",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorMasiv\\PregovorMasiv.csproj",
+              "RelativeToolTip": "PregovorMasiv\\PregovorMasiv.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T07:15:27.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorMasiv\\Program.cs",
+              "RelativeDocumentMoniker": "PregovorMasiv\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\PregovorMasiv\\Program.cs",
+              "RelativeToolTip": "PregovorMasiv\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:36:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\Worklist\\Program.cs",
+              "RelativeDocumentMoniker": "Worklist\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\Worklist\\Program.cs",
+              "RelativeToolTip": "Worklist\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T06:43:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\inputOutput\\Program.cs",
+              "RelativeDocumentMoniker": "inputOutput\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\\u0410\u0434\u0440\u0438\u0430\u043D\u04309\u0410\\workingList\\inputOutput\\Program.cs",
+              "RelativeToolTip": "inputOutput\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T07:04:12.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

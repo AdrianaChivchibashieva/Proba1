@@ -1,0 +1,14 @@
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\bin\Debug\net8.0\inputOutput.exe
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\bin\Debug\net8.0\inputOutput.deps.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\bin\Debug\net8.0\inputOutput.runtimeconfig.json
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\bin\Debug\net8.0\inputOutput.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\bin\Debug\net8.0\inputOutput.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.AssemblyInfoInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.AssemblyInfo.cs
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\refint\inputOutput.dll
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.pdb
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\inputOutput.genruntimeconfig.cache
+C:\Users\TEACHERS-10\Desktop\Адриана9А\workingList\inputOutput\obj\Debug\net8.0\ref\inputOutput.dll
